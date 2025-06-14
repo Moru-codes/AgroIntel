@@ -99,7 +99,13 @@ Input:
 Output:
 ```
 Recommended Crop: rice
+
 ```
+
+## 🚀 Live Demo
+Check out the live app: [AgroIntel on Streamlit](https://your-app-url.streamlit.app)
+
+
 
 ---
 
