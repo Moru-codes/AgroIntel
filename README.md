@@ -102,8 +102,11 @@ Recommended Crop: rice
 
 ```
 
-## 🚀 Live Demo
-Check out the live app: [AgroIntel on Streamlit](https://your-app-url.streamlit.app)
+## 🌐 Live App
+
+You can try out the deployed app here:  
+🔗 [AgroIntel Streamlit App](https://agrointel-as3gqbwszagmmz7noxc7yw.streamlit.app/)
+
 
 
 
